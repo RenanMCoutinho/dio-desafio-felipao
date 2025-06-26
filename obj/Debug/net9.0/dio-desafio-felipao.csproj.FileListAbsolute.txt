@@ -1,0 +1,15 @@
+C:\Dev\dio-desafio-felipao\bin\Debug\net9.0\dio-desafio-felipao.exe
+C:\Dev\dio-desafio-felipao\bin\Debug\net9.0\dio-desafio-felipao.deps.json
+C:\Dev\dio-desafio-felipao\bin\Debug\net9.0\dio-desafio-felipao.runtimeconfig.json
+C:\Dev\dio-desafio-felipao\bin\Debug\net9.0\dio-desafio-felipao.dll
+C:\Dev\dio-desafio-felipao\bin\Debug\net9.0\dio-desafio-felipao.pdb
+C:\Dev\dio-desafio-felipao\obj\Debug\net9.0\dio-desafio-felipao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\dio-desafio-felipao\obj\Debug\net9.0\dio-desafio-felipao.AssemblyInfoInputs.cache
+C:\Dev\dio-desafio-felipao\obj\Debug\net9.0\dio-desafio-felipao.AssemblyInfo.cs
+C:\Dev\dio-desafio-felipao\obj\Debug\net9.0\dio-desafio-felipao.csproj.CoreCompileInputs.cache
+C:\Dev\dio-desafio-felipao\obj\Debug\net9.0\dio-desafio-felipao.sourcelink.json
+C:\Dev\dio-desafio-felipao\obj\Debug\net9.0\dio-desafio-felipao.dll
+C:\Dev\dio-desafio-felipao\obj\Debug\net9.0\refint\dio-desafio-felipao.dll
+C:\Dev\dio-desafio-felipao\obj\Debug\net9.0\dio-desafio-felipao.pdb
+C:\Dev\dio-desafio-felipao\obj\Debug\net9.0\dio-desafio-felipao.genruntimeconfig.cache
+C:\Dev\dio-desafio-felipao\obj\Debug\net9.0\ref\dio-desafio-felipao.dll
